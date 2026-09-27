@@ -211,3 +211,4 @@ function percentage(value , total ){
 }
 let per = percentage(425,500);
 console.log(per);
+//update
